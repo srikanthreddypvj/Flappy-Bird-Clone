@@ -1,2 +1,2 @@
 # Flappy-Bird-Clone
-Unity Hub
+It is a clone of Flappy Bird, designed using UNITY
