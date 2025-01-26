@@ -14,9 +14,10 @@ public class BirdController : MonoBehaviour
           rb.velocity = Vector2.up * jumpForce;
       }
    }
-}
 void OnCollisionEnter2D(Collision2D collision)
 { // Handle game over
 Time.timeScale = 0;
 // Pause the game
  } 
+}
+ 
