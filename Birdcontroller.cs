@@ -15,7 +15,7 @@ public class BirdController : MonoBehaviour
       }
    }
 void OnCollisionEnter2D(Collision2D collision)
-{ // Handle game over
+{ 
 Time.timeScale = 0;
 // Pause the game
  } 
