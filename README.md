@@ -13,7 +13,6 @@ Here're some of the project's best features:
 
 
 
-
   
 <h2>💻 Built with</h2>
 
