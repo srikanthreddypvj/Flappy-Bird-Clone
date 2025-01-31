@@ -12,9 +12,6 @@ Here're some of the project's best features:
 *   Customizable: Easily tweak the bird's speed gravity and difficulty settings.
 *   Optimized Performance: Smooth and lag-free gameplay.
 
-
-
-
   
 <h2>💻 Built with</h2>
 
