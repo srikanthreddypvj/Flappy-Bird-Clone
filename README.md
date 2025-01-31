@@ -3,7 +3,6 @@
 <p id="description">A fun and simple Flappy Bird clone built using Unity! 🚀</p>
 
 
-
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
