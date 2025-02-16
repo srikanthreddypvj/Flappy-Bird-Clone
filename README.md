@@ -18,6 +18,3 @@ Technologies used in the project:
 *   Unity Software
 *   C# Scripting
 
-
-
-
