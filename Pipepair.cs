@@ -5,7 +5,7 @@ public class PipeMovement : MonoBehaviour
   public float leftBoundary = -10f; // The x-position at which pipes get destroyed
   void Update()
   {
-       // Move 
+       // Mo
        transform.position += Vector3.left * speed * Time.deltaTime;
        // Destroy the pipe when it goes off-screen
        if (transform.position.x < leftBoundary)
